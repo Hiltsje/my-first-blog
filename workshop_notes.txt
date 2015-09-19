@@ -1,0 +1,19 @@
+
+http://tutorial.djangogirls.org/en/installation/index.html
+
+//  Start your virtual environment by running:
+    $ source myvenv/bin/activate
+    
+annet.boog@sogeti.com
+
+functie los
+
+method op een class
+
+
+class is iets (iets wat vast staat)
+functie doet iets
+variabele is 1 waarde
+
+Verdieping
+Logica, db
